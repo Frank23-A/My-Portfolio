@@ -48,7 +48,8 @@ function Footer() {
             <ul>
               <li><a href="" target="_blank" rel="noopener noreferrer">Twitter</a></li>
               <li><a href="" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-              <li><a href="" target="_blank" rel="noopener noreferrer">GitHub</a></li> 
+              <li><a href="https://github.com/Frank23-A" target="_blank" rel="noopener noreferrer">GitHub</a></li> 
+              <li><a href="" target="_blank" rel="noopener noreferrer">instagram</a></li>
            </ul>
           </div>
         </div>
@@ -56,18 +57,19 @@ function Footer() {
       <div className="footer-bottom">
         <div className="footer-contact-social">
           <span className="footer-contact-info">
-            Contact Me: <a href="mailto:ochiengcharles531@gmail.com">ochiengcharles531@gmail.com</a> | <a href="tel:+254718166201">+254718166201</a>
+            Contact Me: <a href="frankotieno044@gmail.com">frankotieno044@gmail.com</a> | <a href="tel:+254757463052">+254757463052</a>
           </span>
           <span className="footer-social-links">
-            <a href="" target="_blank" rel="noopener noreferrer" className="social-icon"><i className="fab fa-linkedin-in"></i></a>
-            <a href="" target="_blank" rel="noopener noreferrer" className="social-icon"><i className="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/frank-otieno-854143286" target="_blank" rel="noopener noreferrer" className="social-icon"><i className="fab fa-linkedin-in"></i></a>
+            <a href="https://github.com/Frank23-A" target="_blank" rel="noopener noreferrer" className="social-icon"><i className="fab fa-github"></i></a>
             <a href="" target="_blank" rel="noopener noreferrer" className="social-icon"><i className="fab fa-gitlab"></i></a>
+            <a href="" target="_blank" rel="noopener noreferrer" className="social-icon"><i className="fab fa-bitbucket"></i></a>
             <a href="" target="_blank" rel="noopener noreferrer" className="social-icon"><i className="fab fa-x"></i></a>
             <a href="" target="_blank" rel="noopener noreferrer" className="social-icon"><i className="fab fa-instagram"></i></a>
             <a href="" target="_blank" rel="noopener noreferrer" className="social-icon"><i className="fab fa-facebook-f"></i></a>
           </span>
         </div>
-        <p>&copy; {new Date().getFullYear()} Charles Ochieng. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Frankline Otieno. All rights reserved.</p>
       </div>
     </footer>
   );

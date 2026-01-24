@@ -17,7 +17,7 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
         }, 500);
 
 
-        const text = "Charles Ochieng"; // The text to be typed
+        const text = "Frankline Otieno"; // The text to be typed
         const displayElement = document.getElementById('brand-name');
         let index = 0;
         const typingSpeed = 100; 

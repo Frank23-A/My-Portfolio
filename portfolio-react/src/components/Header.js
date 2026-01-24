@@ -14,7 +14,7 @@ function Header() {
       <nav className="nav-container">
         {/* Brand */}
         <div className="brand">
-          <span>Charles</span>
+          <span>Frank</span>
         </div>
 
         {/* Mobile Menu Button */}

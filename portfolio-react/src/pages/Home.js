@@ -257,7 +257,7 @@ function Home() {
         transform: 'translateX(-50%)',
         width: 'calc(100% - 40px)',
         maxWidth: '1200px',
-        background: 'linear-gradient(135deg, rgba(15, 23, 42, 0.8) 0%, rgba(30, 41, 59, 0.9) 50%, rgba(51, 65, 85, 0.8) 100%)',
+        background: 'linear-gradient(135deg, rgba(15, 42, 23, 0.8) 0%, rgba(71, 94, 131, 0.9) 50%, rgba(75, 101, 133, 0.8) 100%)',
         backdropFilter: 'blur(20px)',
         WebkitBackdropFilter: 'blur(20px)',
         border: '1px solid rgba(255, 255, 255, 0.1)',
@@ -407,7 +407,7 @@ function Home() {
               >
                 <i className="fab fa-gitlab"></i>
               </a>
-               <a href="https://github.com/ChuckyCharles" 
+               <a href="https://github.com/Frank23-A" 
                  target="_blank" 
                  rel="noopener noreferrer"
                  style={{
@@ -705,7 +705,7 @@ function Home() {
                 }}>
                 View My Work
               </button>
-              <a href="https://charlesochieng.hashnode.dev" 
+              <a href="https://franklineotieno.hashnode.dev" 
                  target="_blank" 
                  rel="noopener noreferrer"
                  style={{
@@ -793,25 +793,27 @@ function Home() {
             </div>
             
             {/* Code Content */}
-            <div style={{
-              padding: '1.5rem',
-              fontFamily: 'JetBrains Mono, Monaco, monospace',
-              fontSize: '0.875rem',
-              lineHeight: 1.6
+           <div style={{
+             padding: '1.5rem',
+             fontFamily: 'JetBrains Mono, Monaco, monospace',
+             fontSize: '0.875rem',
+             lineHeight: 1.6
             }}>
-              <CodeLine number="01">QA engineer = {'{'};</CodeLine>
+              <CodeLine number="01">QA_engineer = {'{'};</CodeLine>
               <CodeLine number="02">  name: <span style={{color: '#10b981'}}>'Frankline Otieno'</span>,</CodeLine>
               <CodeLine number="03">  role: <span style={{color: '#10b981'}}>'QA Engineer'</span>,</CodeLine>
               <CodeLine number="04">  company: <span style={{color: '#10b981'}}>'Supreme Court Kenya'</span>,</CodeLine>
               <CodeLine number="05">  experience: <span style={{color: '#10b981'}}>'3+ years'</span>,</CodeLine>
               <CodeLine number="06">  skills: [</CodeLine>
-              <CodeLine number="07">    <span style={{color: '#10b981'}}>'VMware'</span>, <span style={{color: '#10b981'}}>'Kubernetes'</span>, <span style={{color: '#10b981'}}>'OpenShift'</span>,</CodeLine>
-              <CodeLine number="08">    <span style={{color: '#10b981'}}>'Terraform'</span>, <span style={{color: '#10b981'}}>'Ansible'</span>, <span style={{color: '#10b981'}}>'Python'</span></CodeLine>
-              <CodeLine number="09">  ],</CodeLine>
-              <CodeLine number="10">  infrastructure: () =&gt; manageCloudResources(),</CodeLine>
-              <CodeLine number="11">  contact: <span style={{color: '#10b981'}}>'frankotieno044@gmail.com'</span></CodeLine>
-              <CodeLine number="12">{'}'};</CodeLine>
+              <CodeLine number="07">    <span style={{color: '#10b981'}}>'Selenium'</span>, <span style={{color: '#10b981'}}>'Cypress'</span>, <span style={{color: '#10b981'}}>'JMeter'</span>,</CodeLine>
+              <CodeLine number="08">    <span style={{color: '#10b981'}}>'Postman'</span>, <span style={{color: '#10b981'}}>'TestNG'</span>, <span style={{color: '#10b981'}}>'JUnit'</span>,</CodeLine>
+              <CodeLine number="09">    <span style={{color: '#10b981'}}>'Git'</span>, <span style={{color: '#10b981'}}>'Bugzilla'</span>, <span style={{color: '#10b981'}}>'JIRA'</span>,</CodeLine>
+              <CodeLine number="10">    <span style={{color: '#10b981'}}>'Python'</span>, <span style={{color: '#10b981'}}>'SQL'</span></CodeLine>
+              <CodeLine number="11">  ],</CodeLine>
+              <CodeLine number="12">  contact: <span style={{color: '#10b981'}}>'frankotieno044@gmail.com'</span></CodeLine>
+              <CodeLine number="13">{'}'};</CodeLine>
             </div>
+
             
             {/* Status Bar */}
             <div style={{
@@ -823,7 +825,7 @@ function Home() {
               fontSize: '0.75rem',
               color: '#9ca3af'
             }}>
-              <span>🟢 CloudChuck Automation</span>
+              <span>🟢 frankotieno Automation</span>
               <span>Last commit: Today</span>
             </div>
           </div>
@@ -1275,7 +1277,7 @@ function Home() {
               title="OpenShift Voting Application"
               description="Containerized voting app with CI/CD on ROSA"
               technologies={['OpenShift', 'Kubernetes', 'ROSA']}
-              link="https://github.com/ChuckyCharles/Voting_App_Openshift"
+              link="https://github.com/Frank23-A"
               backgroundImage="/assets/images/projects/kubernetes-bg.jpg"
             />
           </div>
@@ -1411,7 +1413,7 @@ function Home() {
                    }}>
                   LinkedIn
                 </a>
-                <a href="https://github.com/ChuckyCharles" 
+                <a href="https://github.com/Frank23-A" 
                    target="_blank"
                    rel="noopener noreferrer"
                    style={{
