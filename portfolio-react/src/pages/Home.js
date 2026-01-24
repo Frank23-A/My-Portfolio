@@ -77,7 +77,7 @@ function Home() {
         from_email: formData.email,
         phone: formData.phone,
         message: formData.message,
-        to_name: 'Charles Ochieng'
+        to_name: 'Frankline Otieno'
       };
 
       await emailjs.send(
@@ -280,7 +280,7 @@ function Home() {
             WebkitTextFillColor: 'transparent',
             backgroundClip: 'text',
             letterSpacing: '-0.02em'
-          }}>Charles Ochieng</div>
+          }}>Frankline Otieno</div>
           
           {/* Mobile Menu Button */}
           <button 
@@ -449,7 +449,7 @@ function Home() {
               >
                 <i className="fab fa-twitter"></i>
               </a>
-              <a href="mailto:ochiengcharles531@gmail.com" 
+              <a href="mailto:frankotieno044@gmail.com" 
                  style={{
                    color: 'rgba(255, 255, 255, 0.7)',
                    fontSize: '1.2rem',
@@ -593,7 +593,7 @@ function Home() {
             >
               <i className="fab fa-twitter"></i>
             </a>
-            <a href="mailto:ochiengcharles531@gmail.com" 
+            <a href="mailto:frankotieno044@gmail.com" 
                style={{
                  color: 'rgba(255, 255, 255, 0.8)',
                  fontSize: '1.5rem',
@@ -652,7 +652,7 @@ function Home() {
               color: '#64748b',
               marginBottom: '0.5rem',
               fontWeight: 500
-            }}>Cloud Infrastructure / DevOps </div>
+            }}>IT and QA Engineer </div>
             
             <h1 style={{
               fontSize: 'clamp(2rem, 6vw, 4rem)',
@@ -660,22 +660,21 @@ function Home() {
               color: '#ffffff',
               marginBottom: 'clamp(0.75rem, 2vw, 1rem)',
               lineHeight: 1.1
-            }}>Charles Ochieng</h1>
+            }}>Franklin Otieno</h1>
             
             <div style={{
               fontSize: 'clamp(1rem, 3vw, 1.25rem)',
               color: '#3b82f6',
               fontWeight: 600,
               marginBottom: '0.5rem'
-            }}>Cloud Infrastructure & DevOps Engineer</div>
+            }}>QA Engineer</div>
             
             <div style={{
               fontSize: 'clamp(0.9rem, 2.5vw, 1rem)',
               color: '#64748b',
               marginBottom: 'clamp(1.5rem, 4vw, 2rem)',
               lineHeight: 1.6
-            }}>Specializing in hybrid cloud architectures, containerization, and infrastructure automation. Passionate about optimizing cloud costs and enhancing system reliability through DevOps practices.</div>
-            
+            }}>Specializing in software testing, test automation, and quality assurance for modern web and cloud-based applications. Skilled in manual and automated testing, API validation, and test automation using Python and JavaScript. Focused on improving software reliability, enhancing test coverage, and ensuring seamless user experiences. With hands-on experience in CI/CD integration, I value quality, precision, and close collaboration with development teams to deliver high-performing and dependable software.</div>
             <div style={{
               display: 'flex',
               gap: 'clamp(0.75rem, 2vw, 1rem)',
@@ -800,17 +799,17 @@ function Home() {
               fontSize: '0.875rem',
               lineHeight: 1.6
             }}>
-              <CodeLine number="01">const engineer = {'{'};</CodeLine>
-              <CodeLine number="02">  name: <span style={{color: '#10b981'}}>'Charles Ochieng'</span>,</CodeLine>
-              <CodeLine number="03">  role: <span style={{color: '#10b981'}}>'Cloud Infrastructure & DevOps Engineer'</span>,</CodeLine>
-              <CodeLine number="04">  company: <span style={{color: '#10b981'}}>'Angani Limited'</span>,</CodeLine>
+              <CodeLine number="01">QA engineer = {'{'};</CodeLine>
+              <CodeLine number="02">  name: <span style={{color: '#10b981'}}>'Frankline Otieno'</span>,</CodeLine>
+              <CodeLine number="03">  role: <span style={{color: '#10b981'}}>'QA Engineer'</span>,</CodeLine>
+              <CodeLine number="04">  company: <span style={{color: '#10b981'}}>'Supreme Court Kenya'</span>,</CodeLine>
               <CodeLine number="05">  experience: <span style={{color: '#10b981'}}>'3+ years'</span>,</CodeLine>
               <CodeLine number="06">  skills: [</CodeLine>
               <CodeLine number="07">    <span style={{color: '#10b981'}}>'VMware'</span>, <span style={{color: '#10b981'}}>'Kubernetes'</span>, <span style={{color: '#10b981'}}>'OpenShift'</span>,</CodeLine>
               <CodeLine number="08">    <span style={{color: '#10b981'}}>'Terraform'</span>, <span style={{color: '#10b981'}}>'Ansible'</span>, <span style={{color: '#10b981'}}>'Python'</span></CodeLine>
               <CodeLine number="09">  ],</CodeLine>
               <CodeLine number="10">  infrastructure: () =&gt; manageCloudResources(),</CodeLine>
-              <CodeLine number="11">  contact: <span style={{color: '#10b981'}}>'ochiengcharles531@gmail.com'</span></CodeLine>
+              <CodeLine number="11">  contact: <span style={{color: '#10b981'}}>'frankotieno044@gmail.com'</span></CodeLine>
               <CodeLine number="12">{'}'};</CodeLine>
             </div>
             
