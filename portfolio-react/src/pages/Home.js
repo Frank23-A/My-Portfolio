@@ -637,9 +637,10 @@ function Home() {
               flexWrap: 'wrap'
             }}>
               <TechIcon>☁️</TechIcon>
-              <TechIcon>🐳</TechIcon>
-              <TechIcon>K8s</TechIcon>
-              <TechIcon>🐍</TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+</TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></TechIcon>
               <TechIcon>TF</TechIcon>
               <TechIcon>🟢</TechIcon>
               <TechIcon>VM</TechIcon>
