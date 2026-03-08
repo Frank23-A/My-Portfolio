@@ -421,7 +421,7 @@ function Home() {
               >
                 <i className="fab fa-github"></i>
               </a>
-              <a href="https://www.linkedin.com/in/charles-ochieng-177ba3253" 
+              <a href="https://www.linkedin.com/in/frank-otieno-854143286" 
                  target="_blank" 
                  rel="noopener noreferrer"
                  style={{
@@ -557,7 +557,7 @@ function Home() {
             >
               <i className="fab fa-gitlab"></i>
             </a>
-            <a href="https://www.linkedin.com/in/charles-ochieng-177ba3253" 
+            <a href="https://www.linkedin.com/in/frank-otieno-854143286" 
                target="_blank" 
                rel="noopener noreferrer"
                style={{
@@ -1359,7 +1359,7 @@ function Home() {
                 gap: '1rem',
                 flexWrap: 'wrap'
               }}>
-                <a href="mailto:ochiengcharles531@gmail.com" 
+                <a href="frankotieno044@gmail.com" 
                    style={{
                      background: '#3b82f6',
                      color: '#ffffff',
@@ -1376,7 +1376,7 @@ function Home() {
                    }}>
                   ✉️ Email Me
                 </a>
-                <a href="tel:+254718166201" 
+                <a href="tel:+254757463052" 
                    style={{
                      background: 'transparent',
                      color: '#ffffff',
@@ -1401,7 +1401,7 @@ function Home() {
                 gap: '1rem',
                 flexWrap: 'wrap'
               }}>
-                <a href="https://www.linkedin.com/in/charles-ochieng-177ba3253" 
+                <a href="https://www.linkedin.com/in/frank-otieno-854143286" 
                    target="_blank"
                    rel="noopener noreferrer"
                    style={{
@@ -1474,7 +1474,7 @@ function Home() {
                 color: '#9ca3af',
                 fontSize: '0.875rem',
                 marginBottom: '1.5rem'
-              }}>Let's discuss your cloud infrastructure needs</p>              
+              }}>Let's discuss your programming and QA_engineer needs</p>              
               <form ref={formRef} onSubmit={handleSubmit} style={{
                 display: 'flex',
                 flexDirection: 'column',

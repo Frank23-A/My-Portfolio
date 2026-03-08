@@ -82,7 +82,7 @@ function About() {
           <div className="contact-buttons">
             <a href="mailto: frankotieno044@gmail.com" className="cta">Email Me</a>
             <a href="https://wa.me/254746315094" target="_blank" rel="noopener noreferrer" className="cta">WhatsApp</a>
-            <a href="https://www.linkedin.com/in/charles-ochieng-177ba3253" target="_blank" rel="noopener noreferrer" className="cta">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/frank-otieno-854143286" target="_blank" rel="noopener noreferrer" className="cta">LinkedIn</a>
           </div>
         </div>
       </section>

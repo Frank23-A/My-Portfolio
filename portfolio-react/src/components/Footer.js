@@ -47,7 +47,7 @@ function Footer() {
             <h4>Social</h4>
             <ul>
               <li><a href="" target="_blank" rel="noopener noreferrer">Twitter</a></li>
-              <li><a href="" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+              <li><a href="https://www.linkedin.com/in/frank-otieno-854143286" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
               <li><a href="https://github.com/Frank23-A" target="_blank" rel="noopener noreferrer">GitHub</a></li> 
               <li><a href="" target="_blank" rel="noopener noreferrer">instagram</a></li>
            </ul>
