@@ -638,14 +638,21 @@ function Home() {
             }}>
               <TechIcon>☁️</TechIcon>
               <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></TechIcon>
-              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-</TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></TechIcon>
               <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></TechIcon>
               <TechIcon>TF</TechIcon>
-              <TechIcon>🟢</TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></TechIcon>
               <TechIcon>VM</TechIcon>
               <TechIcon>⚙️</TechIcon>
               <TechIcon>📋</TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></TechIcon>
+              <TechIcon><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /></TechIcon>
             </div>
             
             <div style={{

@@ -26,7 +26,7 @@ function Header() {
         <ul className={`nav-links ${isMenuOpen ? 'active' : ''}`}>
           <li><a href="#about-main">About</a></li>
           <li><a href="#projects">Projects</a></li>
-          <li><a href="https://charlesochieng.hashnode.dev/" target="_blank" rel="noopener noreferrer">Blog</a></li>
+          <li><a href="https://franklineotieno.hashnode.dev" target="_blank" rel="noopener noreferrer">Blog</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
